@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @rnartallo
+- 👀 I’m interested in applied mathematics and computational neuroscience
+- 🌱 I’m currently learning mathematics at the University of Warwick
+- 💞️ I’m looking to collaborate on: doctoral research in computational neuroscience, open-source comp neuro projects
+- 📫 How to reach me: moncho.nartallo@gmail.com
