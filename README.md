@@ -2,4 +2,4 @@
 - 👀 I’m interested in applied & computational mathematics and computational neuroscience
 - 🌱 I am a doctoral student at the University of Oxford
 - 💞️ I’m looking to collaborate on: doctoral research in computational neuroscience, open-source comp neuro projects
-- 📫 How to reach me: moncho.nartallo@gmail.com, ramon.nartallo-kaluarachchi@stcatz.ox.ac.uk
+- 📫 How to reach me: moncho.nartallo@gmail.com, ramon.nartallo-kaluarachchi@maths.ox.ac.uk
